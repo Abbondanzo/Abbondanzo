@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-Hi! I’m Peter Abbondanzo, a UI/UX designer of web and mobile applications. Currently, I am studying at [Northeastern University](http://www.northeastern.edu/) up in Boston, Massachusetts. I’ve got a passion for creating, innovating, and coffee. I also work for this fantastic company called [HubSpot](https://hubspot.com) over in Cambridge.
+I’m Peter Abbondanzo, a UI/UX designer of web and mobile applications. Currently, I am studying at [Northeastern University](http://www.northeastern.edu/) up in Boston, Massachusetts. I’ve got a passion for creating, innovating, and coffee. I also work for this fantastic company called [HubSpot](https://hubspot.com) over in Cambridge.
 
 ### What I do
 
