@@ -14,4 +14,4 @@ Mostly I'm a full-stack developer, building applications from the ground, up. If
 
 ### How to reach me
 
-I'm active on [LinkedIn](https://www.linkedin.com/in/pabbondanzo), Discord [[1]](https://discord.gg/GwM7RBY)[[2]](https://discord.gg/K3njNxF) and here on GitHub, so feel free to reach out.
+I'm active on [LinkedIn](https://www.linkedin.com/in/pabbondanzo), Discord [[1]](https://discord.gg/GwM7RBY)[[2]](https://discord.gg/K3njNxF), and here on GitHub, so feel free to reach out.
