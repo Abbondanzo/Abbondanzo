@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="900" height="250" src="https://github.com/Abbondanzo/Abbondanzo/blob/master/header.png">
+  <img width="900" height="auto" src="https://github.com/Abbondanzo/Abbondanzo/blob/master/header.png">
 </p>
 
 ### Hi there 👋
